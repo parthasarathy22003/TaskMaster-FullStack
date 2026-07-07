@@ -1,5 +1,3 @@
-Here is a clean, professional **GitHub README.md** suitable for a fresher portfolio.
-
 # 📋 Full Stack Todo Application
 
 A modern **Full Stack Todo Application** built with **React, Node.js, Express.js, Sequelize ORM, and MySQL**. This project demonstrates complete CRUD operations, REST API development, frontend-backend integration, and responsive UI design.
@@ -265,9 +263,4 @@ During this project I gained practical experience with:
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
-A few improvements before publishing:
 
-* Replace the placeholder GitHub and LinkedIn URLs with your actual profiles.
-* Add 3–5 screenshots in a `screenshots/` folder to make the repository more attractive.
-* If you deploy the app, update the Demo section with live frontend and backend links.
-* Add a license (such as MIT) if you want others to reuse the code.
